@@ -1,0 +1,54 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+body {
+  margin: 0 auto;
+  padding: 50px;
+  font-family: 'Open Sans', sans-serif;
+}
+div.person {
+  display: inline-block;
+  border: 1px solid grey;
+  width: 200px;
+  height: 200px;
+  padding: 50px;
+}
+ul {
+  list-style: none;
+}
+h3 {
+  font-size: 25px;
+  text-align: center;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+a:hover{
+  color:black;
+  text-decoration: none;
+}
+a:active{
+  color: black;
+  text-decoration: none;
+}
+a:visited{
+  color: black;
+  text-decoration: none;
+}
+/* person
+.person > a:link{
+  text-decoration: none;
+}
+.person > a:hover{
+
+  text-decoration: none;
+}
+.person > a:active{
+  color: black;
+  text-decoration: none;
+}
+.person > a:visited{
+  color: black;
+  text-decoration: none;
+}*/
